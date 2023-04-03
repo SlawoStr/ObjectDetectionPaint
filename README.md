@@ -25,12 +25,12 @@ Brush Settings:
 
 Example digit recognition
 
-![Oryginal](https://github.com/SlawekSt/ObjectRecognitionPaint/blob/main/number.PNG)
+![Oryginal](https://github.com/SlawoStr/ObjectDetectionPaint/blob/master/number.PNG)
 
 Example Object recognition - jellyfish
 
-![Oryginal](https://github.com/SlawekSt/ObjectRecognitionPaint/blob/main/jellyfish.PNG)
+![Oryginal](https://github.com/SlawoStr/ObjectDetectionPaint/blob/master/jellyfish.PNG)
 
 Example Object recognition - matchstick
 
-![Oryginal](https://github.com/SlawekSt/ObjectRecognitionPaint/blob/main/matchstick.PNG)
+![Oryginal](https://github.com/SlawoStr/ObjectDetectionPaint/blob/master/matchstick.PNG)
